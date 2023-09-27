@@ -14,4 +14,8 @@ Moment 3 går ut på att svara på frågor om Git samt grundläggande koncept in
 
 Vidare ska man svara på frågor om kommandon som används i Git och användningsområden för dessa. Uppgiften innehåller också ett moment där man ska bekanta sig med Github, använda sig av Markdown för att formattera README.md-filer, skapa repositories på Github, och redovisa detta i en PDF-fil som lämnas in. 
 
+
+### :arrow_double_down: För att hämta
+Skriv in ```git clone https://github.com/sagaeinkik/moment3.git``` i din kommandotolk  
+
 **Tack för mig!**
